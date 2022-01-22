@@ -1,14 +1,5 @@
 # WEEK_4_IP_CORE
  README.md 
-@@ -1 +1,34 @@
-# WEEK4_IP_CORE
-# WEEK4_IP_CORE
-
- 31  README.md 
-@@ -1 +1,30 @@
-# WEEK_4_IP_CORE
-# WEEK_4_IP_CORE
-
 #### By **{Joan Chepkwony}**
 ## Description
 {
