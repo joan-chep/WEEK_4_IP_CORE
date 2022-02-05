@@ -19,8 +19,11 @@ Approach 1: Polynomial regression model
 * Model 2: Predict how many goals the away team scores
  
 Approach 2: Logistic regression model
+
 Cross-validate the model
+
 Create residual plots for the model
+
 Assess Heteroscedasticity using Bartlett’s test
 
 Challenge the solution.
